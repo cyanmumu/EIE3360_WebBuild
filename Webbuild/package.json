@@ -2,7 +2,7 @@
   "name": "EIE3360",
   "version": "1.0.0",
   "scripts": {
-    "build": "your-build-command"
+    "build": "npm run build"
   },
   "dependencies": {
     "your-dependencies": "version"
